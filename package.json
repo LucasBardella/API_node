@@ -1,5 +1,5 @@
 {
-  "name": "api_node-1",
+  "name": "api_node",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -9,17 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LucasBardella/API_node.git"
+    "url": "git+https://github.com/Pontgiulia/API_NODE.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LucasBardella/API_node/issues"
+    "url": "https://github.com/Pontgiulia/API_NODE/issues"
   },
-  "homepage": "https://github.com/LucasBardella/API_node#readme",
+  "homepage": "https://github.com/Pontgiulia/API_NODE#readme",
   "dependencies": {
-    "express": "^5.1.0",
-    "nodemon": "^3.1.10"
+    "@prisma/client": "^6.13.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "prisma": "^6.13.0"
   }
 }
