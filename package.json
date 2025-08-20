@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pontgiulia/API_NODE.git"
+    "url": "git+https://github.com/LucasBardella/API_node.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Pontgiulia/API_NODE/issues"
+    "url": "https://github.com/LucasBardella/API_node/issues"
   },
-  "homepage": "https://github.com/Pontgiulia/API_NODE#readme",
+  "homepage": "https://github.com/LucasBardella/API_node#readme",
   "dependencies": {
     "@prisma/client": "^6.13.0",
     "express": "^5.1.0"
